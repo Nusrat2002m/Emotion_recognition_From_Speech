@@ -4,7 +4,6 @@
 
 | File | Task | Dataset | Models |
 |---|---|---|---|
-
 | `task2_emotion_recognition.py` | Emotion Recognition from Speech | RAVDESS (real, if you provide audio) / synthetic MFCC fallback | MLP (Neural Network) on MFCC features |
 
 ## How to run
