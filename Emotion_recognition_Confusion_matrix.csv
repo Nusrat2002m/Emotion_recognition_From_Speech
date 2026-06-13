@@ -1,0 +1,7 @@
+,angry,calm,fearful,happy,neutral,sad
+angry,30,0,0,0,0,0
+calm,0,30,0,0,0,0
+fearful,0,0,30,0,0,0
+happy,0,0,0,30,0,0
+neutral,0,0,0,0,30,0
+sad,0,0,0,0,0,30
